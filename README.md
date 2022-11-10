@@ -2,6 +2,13 @@
 
 O intuito deste projeto foi desenvolver uma dashboard financeira no qual o usuário pode se logar na página e verificar as movimentações de entradas e saídas de acordo com o mês selecionado.
 
+Link da aplicação: https://my-wallet-lucasdacunhamoreti.vercel.app/
+</br>
+</br>
+Para fazer login na aplicação utilize:
+> email: lucasdacunha@email.com |
+senha: 123456
+
 ### Projeto em funcionamento:
 
 <div align="center" >
